@@ -61,7 +61,7 @@ font[color*='#FF0000'] {
 }
 
 /* 文字を薄い白色にする */
-.desc-area, .title, .name, .news-area__list .item > a, .date, .list__head, .view-detail, .sidemenu__list a, .txt-desc, .c-box__notice, .member, .character, .job, .point {
+.desc-area, .title, .name, .news-area__list .item > a, .date, .list__head, .view-detail, .sidemenu__list a, .txt-desc, .c-box__notice, .member, .character, .job, .point, .old-container {
   color: #e8e8e8 !important;
 }
 
