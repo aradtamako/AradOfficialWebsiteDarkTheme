@@ -109,3 +109,20 @@ font[color*='#FF0000'] {
 .c-box__sttl span::before {
   filter: brightness(300%);
 }
+
+/* お知らせのタブ */
+.tab__item a {
+  border-top: 1px solid #787878;
+  border-right: 1px solid #787878;
+  border-bottom: 1px solid #787878;
+  background: #3c3c3c !important;
+  color: #e3e3e3;
+}
+
+.tab__item.current a {
+  background: #797979 !important;
+}
+
+.tab__item:first-child a {
+  border-left: 1px solid #787878;
+}
