@@ -129,6 +129,7 @@ font[color*='#FF0000'] {
 
 /* 検索ボックス */
 .search input {
+  color: #fff;
   background: #6c6c6c;
 }
 
