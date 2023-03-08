@@ -126,3 +126,12 @@ font[color*='#FF0000'] {
 .tab__item:first-child a {
   border-left: 1px solid #787878;
 }
+
+/* 検索ボックス */
+.search input {
+  background: #6c6c6c;
+}
+
+.search input::placeholder {
+  color: #fff;
+}
