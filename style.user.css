@@ -12,95 +12,95 @@
 
 /* 背景を黒くする */
 .l-1c-main, .l-sub-main {
-    background: #151515;
+  background: #151515;
 }
 
 /* 背景を黒くする */
 .l-main, article, .common-inner {
-    background: #252525;
+  background: #252525;
 }
 
 /* 背景を黒くする */
 .c-box__sttl {
-    border-top: 1px solid #525252;
-    background: #3c3c3c;
+  border-top: 1px solid #525252;
+  background: #3c3c3c;
 }
 
 /* テーブルの背景を黒くする */
 .news-list-view, .news-list-view__item, tr, td {
-    background: #3a3a3a;
+  background: #3a3a3a;
 }
 
 /* テーブルのボーダーを灰色にする */
 tr, td {
-    border-color: #818181;
+  border-color: #818181;
 }
 
 /* 明るさを3倍にする */
 h2 {
-    filter: brightness(300%);
+  filter: brightness(300%);
 }
 
 /* テキストの色をダークテーマに合う色に変更する */
 font[color*='#0000FF'], font[color*='#0000cd'] {
-    color: #4671fd !important;
+  color: #4671fd !important;
 }
 
 font[color*='#FF0000'] {
-    color: #ff4747;
+  color: #ff4747;
 }
 
 /* 文字を濃い白色にする */
 .title, .txt, .subject, .ssttl-line, .sidemenu__sttl, .ttl-area__breadcrumb *, .c-box__time, .c-box__sttl > span{
-    color: #e3e3e3 !important;
+  color: #e3e3e3 !important;
 }
 
 /* 文字を薄い白色にする */
 .desc-area, .title, .name, .news-area__list .item > a, .date, .list__head, .view-detail, .sidemenu__list a, .txt-desc, .c-box__notice {
-    color: #e8e8e8 !important;
+  color: #e8e8e8 !important;
 }
 
 /* サイドメニュー */
 .sidemenu {
-    background: #3a3a3a !important;
-    border: 1px solid #5d5d5d !important;
+  background: #3a3a3a !important;
+  border: 1px solid #5d5d5d !important;
 }
 
 /* サイドメニュー アイコン */
 .sidemenu__item, .sidemenu-other__item {
-    filter: brightness(150%) saturate(0%) !important;
+  filter: brightness(150%) saturate(0%) !important;
 }
 
 /* MOREボタン */
 .more > a {
-    background: #444 !important;
-    color: #fff !important;
-    border: 1px solid #838383 !important;
+  background: #444 !important;
+  color: #fff !important;
+  border: 1px solid #838383 !important;
 }
 
 /* 会員登録ボタン下部の「謎の空白」を消す */
 .login-area__logout {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 /* ページ上部のタイトルバーを消す */
 #gnb-container {
-    display: none;
+  display: none;
 }
 
 /* 上へ戻るボタンを消す */
 .btn-pgtp-area__btn {
-    display: none;
+  display: none;
 }
 
 /* 画像の背景色を透過する */
 .img-main {
-    background: url('https://raw.githubusercontent.com/aradtamako/AradOfficialWebsiteDarkTheme/main/img_main.png') no-repeat 0 0/contain;
+  background: url('https://raw.githubusercontent.com/aradtamako/AradOfficialWebsiteDarkTheme/main/img_main.png') no-repeat 0 0/contain;
 }
 
 /* 歯車アイコンの明るさを3倍にする */
 .c-box__sttl span::before {
-    filter: brightness(300%);
+  filter: brightness(300%);
 }
