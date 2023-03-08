@@ -87,3 +87,8 @@ font[color*='#FF0000'] {
 .img-main { 
     background: url('https://raw.githubusercontent.com/aradtamako/AradOfficialWebsiteDarkTheme/main/img_main.png') no-repeat 0 0/contain;
 }
+
+/* 歯車アイコンの明るさを3倍にする */
+.c-box__sttl span::before {
+    filter: brightness(300%);
+}
