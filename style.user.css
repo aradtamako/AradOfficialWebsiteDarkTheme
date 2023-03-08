@@ -11,7 +11,7 @@
 ==/UserStyle== */
 
 /* 背景を黒くする */
-.l-1c-main, .l-sub-main, .sub-header-main {
+.header-main, .l-1c-main, .l-sub-main, .sub-header-main {
   background: #151515;
 }
 
