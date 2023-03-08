@@ -1,3 +1,15 @@
+/* ==UserStyle==
+@name         AradOfficialWebsiteDarkTheme
+@namespace    aradtamako
+@version      3.7.1
+@description  Arad Official Website Dark Theme
+@author       aradtamako
+@homepageURL  https://github.com/aradtamako/AradOfficialWebsiteDarkTheme
+@supportURL   https://github.com/aradtamako/AradOfficialWebsiteDarkTheme/issues
+@updateURL    https://raw.githubusercontent.com/aradtamako/AradOfficialWebsiteDarkTheme/main/style.user.css
+@license      MIT License
+==/UserStyle== */
+
 /* 背景を黒くする */
 .l-1c-main, .l-sub-main {
     background: #151515;
