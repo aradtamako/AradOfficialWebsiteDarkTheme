@@ -137,3 +137,8 @@ font[color*='#FF0000'] {
 .search input::placeholder {
   color: #fff;
 }
+
+/* モーダルダイアログを非表示にする */
+.nx-common-modal-container {
+  display: none;
+}
